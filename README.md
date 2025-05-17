@@ -18,17 +18,6 @@ Powered by:
 - **Interactive CLI interface**: Simple and human-like conversation flow in your terminal.
 
 ---
-
-## 🗂️ Project Structure
-
-agentic_chatbot/
-├── main.py # Entry point for running the chatbot
-├── rag_pipeline.py # RAG chain builder with LLM + retriever
-├── memory_module.py # Sets up conversation buffer memory
-├── utils.py # Helper utilities (optional)
-└── data/
-└── knowledge_base.txt # Source documents for retrieval
-
 yaml
 
 ---
