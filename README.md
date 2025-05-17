@@ -30,8 +30,6 @@ agentic_chatbot/
 └── knowledge_base.txt # Source documents for retrieval
 
 yaml
-Copy
-Edit
 
 ---
 
@@ -61,15 +59,13 @@ Optional: Create a virtual environment with venv or conda before installing.
 
 3. Set your OpenAI API Key
 bash
-Copy
-Edit
+
 export OPENAI_API_KEY=your-key-here
 Or add it in the code inside main.py.
 
 4. Run the Chatbot
 bash
-Copy
-Edit
+
 python main.py
 📝 How it Works
 Document Loading: Text documents are loaded and split into manageable chunks.
@@ -84,8 +80,7 @@ Memory: Previous interactions are stored and reused to maintain chat history.
 
 📚 Sample Conversation
 bash
-Copy
-Edit
+
 🤖 Welcome to the Agentic RAG Chatbot!
 🧑 You: What is LangChain?
 🤖 Chatbot: LangChain is a framework that helps developers integrate language models like GPT with external tools, documents, and APIs.
@@ -112,8 +107,7 @@ FAISS
 OpenAI
 
 python
-Copy
-Edit
+
 
 ---
 
