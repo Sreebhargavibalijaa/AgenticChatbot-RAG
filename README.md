@@ -16,10 +16,6 @@ Powered by:
 - **Memory-powered conversations**: Maintains history of the dialogue using `ConversationBufferMemory`.
 - **Modular & scalable**: Clean code structure suitable for extensions (e.g., tools, APIs, custom agents).
 - **Interactive CLI interface**: Simple and human-like conversation flow in your terminal.
-
----
-yaml
-
 ---
 
 ## 🚀 Getting Started
